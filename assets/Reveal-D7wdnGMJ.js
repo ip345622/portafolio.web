@@ -1,0 +1,1 @@
+import{u as s,j as r,m as u}from"./motion-jzG98S_q.js";const c=[.22,1,.36,1];function d({children:i,className:t="",delay:o=0,y:a=36,once:n=!0}){const e=s();return r.jsx(u.div,{className:t,initial:e?!1:{opacity:0,y:a},whileInView:e?void 0:{opacity:1,y:0},viewport:{once:n,margin:"-60px"},transition:{duration:.65,delay:o,ease:c},children:i})}export{d as R};
